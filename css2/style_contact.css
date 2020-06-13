@@ -1,0 +1,127 @@
+body{
+	font-family: 'Caveat', cursive;
+}
+
+.container{
+	background-color: #81FFE8; 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 21vh;
+}
+
+
+.container {
+    display: flex;
+    width: auto;
+    margin: auto;
+    max-width: 100%;
+}
+
+.right_header{
+display: flex;
+justify-content: flex-end;
+}
+
+.left_header,
+.right_header {
+    width: 50%;
+
+  }
+
+
+  ul.menu{
+margin: 0px;
+padding: 0px;
+display: flex;
+list-style: none;
+margin-right: 14%;
+
+}
+
+.menu>li{
+	font-family: Caveat;
+    font-style: normal;
+   font-weight: normal;
+	margin-right: 55px;
+	font-size: 48px;
+
+}
+
+.menu > li a{
+	color: black;
+	text-decoration: none;
+}
+
+.menu > li a:hover{
+	color: #04F0B7;
+	transition: color .25s ease-in-out;
+}
+
+
+.left_header{
+	margin-top: 4%;
+	font-size: 96px;
+	text-align: center;
+}
+
+
+
+.containe{
+	margin-top: 8%;
+	max-width: 1500px;
+}
+
+.contacts{
+    max-width: 100%;
+    margin-top: -2%;
+}	
+
+.cols-3{
+	margin-left: 9%;
+	float: left;
+}
+
+.row{
+	margin-left: -4%;
+}
+
+.row:after{
+	clear:both;
+	content:"";
+	display: table;
+}
+
+.title h1{
+	text-align: center;
+	 font-size: 48px;
+	 margin-top: 6%;
+}
+
+.title p{
+	font-size: 24px;
+	margin-top: 13%;
+	text-align: center;
+}
+
+.back{
+	background-color: #FC74AD; 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height:18vh;
+
+}
+
+.text h1{
+	margin-left: 14%;
+    text-align: center;
+    margin-top: 13%;
+    font-size: 48px;
+    margin-right: 14%;
+}
+
+.phone{
+	margin-top: 4%;
+    margin-left: 71%;
+    font-size:24px;
