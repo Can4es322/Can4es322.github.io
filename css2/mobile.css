@@ -524,7 +524,7 @@ p.text {
 
 .container{
     display: inline;
-    max-width: 360px;
+    max-width: 100%;
     
 }
 
@@ -575,7 +575,7 @@ ul.header_menu{
 }
 
 .right_title{
-    width: 120%;
+    max-width: 100%;
     margin-top: 2%;
 }   
 
