@@ -524,6 +524,7 @@ p.text {
 
 .container{
     display: inline;
+    max-width: 360px;
     
 }
 
