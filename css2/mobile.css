@@ -698,7 +698,7 @@ margin: 0px;
     padding: 0px;
     display: flex;
     list-style: none;
-    margin-right: 36%;
+    margin-right: -18%;
 }
 
 .right_header{
@@ -716,7 +716,7 @@ margin: 0px;
     font-family: Caveat;
     font-style: normal;
     font-weight: normal;
-    margin-right: 50%;
+   margin-right: 60px;
     font-size: 119%;
 
 }
