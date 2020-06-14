@@ -1,0 +1,1031 @@
+ 
+ @media (max-width: 1181px){
+
+  .Image{
+  	    height: 182px;
+    width: 301px;
+  }
+}
+ 
+
+
+
+ @media (max-width: 1101px){
+
+  .Image{
+  	    height: 182px;
+    width: 282px;
+  }
+
+ }
+
+
+  @media (max-width: 1031px){
+
+  .Image{
+  	    height: 182px;
+    width: 277px;
+  }
+
+  .android_pril {
+    text-align: center;
+    font-size: 55px;
+    margin-top: 10%;
+}
+.tit {
+    font-size: 31px;
+    line-height: 117%;
+}
+
+.server {
+    text-align: center;
+    font-size: 65px;
+    margin-top: 10%;
+}
+
+
+.civra {
+    text-align: center;
+    font-size: 55px;
+    margin-top: 10%;
+}
+
+
+.back {
+    margin: 30%;
+    margin-top: 5%;
+}
+
+.backk {
+    margin: 43%;
+    margin-top: 5%;
+}
+
+.backkk {
+    margin: 32%;
+    margin-top: 3%;
+}
+
+.Photo {
+    width: 444px;
+    height: 305px;
+}
+ }
+
+
+
+
+
+
+
+
+
+
+
+ @media (max-width: 900px){
+
+
+.header {
+    background-image: url(../image/coffee.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 35vh;
+}
+
+h1.POP {
+    margin: 0px;
+    margin-top: -14%;
+    font-size: 59px;
+}
+
+p.Name {
+    margin: 9%;
+    font-size: 35px;
+    margin-left: 6%;
+}
+
+  .Image{
+  	        height: 181px;
+    width: 246px;
+    max-width: 100%
+  }
+
+  .android_pril {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 10%;
+}
+.tit {
+    font-size: 25px;
+    line-height: 117%;
+}
+
+.server {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 10%;
+}
+
+
+.civra {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 10%;
+}
+
+
+.back {
+    margin: 30%;
+    margin-top: 5%;
+}
+
+.backk {
+        margin: 40%;
+    margin-top: 5%
+}
+
+.col-3 {
+    margin-left: 4%;
+    float: left;
+}
+.col-3{
+	margin-left: 0%;
+	margin-right: 0%;
+}
+.backkk {
+    margin: 32%;
+    margin-top: 3%;
+}
+
+.Photo {
+        width: 348px;
+    height: 305px;
+}
+
+
+.thank {
+    font-size: 50px;
+    text-align: center;
+}
+
+.reserved {
+    margin-left: 55%;
+    margin-top: 30%;
+}
+
+.Text {
+    font-size: 21px;
+}
+
+
+.menu>li {
+    font-family: Caveat;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 55px;
+    font-size: 36px;
+}
+ }
+
+
+
+ @media (max-width: 600px){
+
+
+.header {
+    background-image: url(../image/coffee.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 35vh;
+}
+
+h1.POP {
+    margin: 0px;
+    margin-top: -14%;
+    font-size: 47px;
+}
+
+p.Name {
+        margin: 12%;
+    font-size: 25px;
+    margin-left: 2%;
+}
+.title {
+    font-size: 55px;
+    text-align: center;
+}
+  .Image{
+  	        height: 191px;
+    width: 326px;
+    max-width: 100%;
+  }
+
+  .android_pril {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+}
+.tit {
+        font-size: 17px;
+    line-height: 117%;
+}
+
+.server {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+
+.civra {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+
+.back {
+    margin: 30%;
+    margin-top: 5%;
+}
+
+.backk {
+        margin: 40%;
+    margin-top: 5%
+}
+
+.col-3 {
+    margin-left: 22%;
+    margin-top: 3%;
+}
+
+
+.backkk {
+    margin: 32%;
+    margin-top: 3%;
+}
+
+.Photo {
+            width: 296px;
+    height: 283px;;
+}
+
+
+.thank {
+    font-size: 38px;
+    text-align: center;
+}
+
+.portfolio_img {
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+.reserved {
+       margin-left: 47%;
+    margin-top: 24%;
+}
+
+.Text {
+    font-size: 18px;
+}
+
+
+.menu>li {
+    font-family: Caveat;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 54px;
+    font-size: 25px;
+}
+ul.menu{
+	margin: 0px;
+    padding: 0px;
+    display: flex;
+    list-style: none;
+    margin-right: 0px;
+}
+.right_hed {
+    margin-top: -25%;
+    margin-right: 8%;
+    text-align: left;
+    margin-left: 5%;
+    background-image: url(../image/back_android.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 146%;
+}
+
+
+.con {
+   background-image: url(../image/thanks.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 44vh;
+    max-width: 100%;
+    margin-top: 6%;
+}
+ }
+
+
+
+
+
+
+
+ @media (max-width: 414px){
+
+.cont{
+	display: flex;
+}
+.header {
+   background-image: url(../image/coffee.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+}
+
+h1.POP {
+    margin: 0%;
+    margin-top: -1%;
+    font-size: 27px;
+    margin-left: 5%;
+}
+
+
+p.Name {
+         margin: 7%;
+    font-size: 18px;
+    margin-left: 2%
+
+}
+
+
+.title {
+        font-size: 35px;
+    text-align: center;
+}
+  .Image{
+  	        height: 191px;
+    width: 326px;
+    max-width: 100%;
+  }
+
+  .android_pril {
+        text-align: center;
+    font-size: 22px;
+    margin-top: 10%;
+}
+.tit {
+    font-size: 14px;
+    line-height: 95%;
+}
+
+.server {
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10%;
+}
+
+
+.civra {
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10%;
+}
+
+
+.back {
+    margin: 30%;
+    margin-top: 5%;
+}
+
+.backk {
+        margin: 40%;
+    margin-top: 5%
+}
+
+.col-3 {
+    margin-left: 11%;
+    margin-top: -2%;
+}
+
+
+.backkk {
+    margin: 32%;
+    margin-top: 3%;
+}
+
+.Photo {
+       width: 195px;
+    height: 174px;
+}
+
+
+.thank {
+        font-size: 27px;
+    text-align: center;
+}
+
+.portfolio_img {
+    margin-top: 10%;
+    margin-left: 3%;
+}
+.portfolio_title {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 2%;
+}
+.reserved {
+     margin-left: 47%;
+    margin-top: 26%;
+
+}
+
+
+.Text {
+    font-size: 13px;
+}
+
+
+.menu>li {
+    font-family: Caveat;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 30px;
+    font-size: 16px;
+}
+ul.menu{
+	margin: 0px;
+    padding: 0px;
+    display: flex;
+    list-style: none;
+    margin-right: 0px;
+}
+.right_hed {
+        margin-top: -25%;
+    margin-right: 2%;
+    text-align: left;
+    margin-left: 3%;
+    background-image: url(../image/back_android.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 118%;
+}
+
+
+.con {
+    background-image: url(../image/thanks.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+    max-width: 100%;
+    margin-top: 15%;
+}
+
+.left_hed {
+    margin-top: -22%;
+}
+
+
+ }
+
+
+
+
+
+
+ @media (max-width: 375px){
+
+
+.header {
+   background-image: url(../image/coffee.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+}
+
+h1.POP {
+    margin: 0%;
+    margin-top: -1%;
+    font-size: 27px;
+    margin-left: 5%;
+}
+
+
+p.Name {
+         margin: 7%;
+    font-size: 18px;
+    margin-left: 2%
+
+}
+
+
+.title {
+        font-size: 35px;
+    text-align: center;
+}
+  .Image{
+  	        height: 170px;
+    width: 278px;
+    max-width: 100%;
+  }
+
+  .android_pril {
+        text-align: center;
+    font-size: 22px;
+    margin-top: 10%;
+}
+.tit {
+    font-size: 14px;
+    line-height: 95%;
+}
+
+.server {
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10%;
+}
+
+
+.civra {
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10%;
+}
+
+
+.back {
+    margin: 30%;
+    margin-top: 5%;
+}
+
+.backk {
+        margin: 40%;
+    margin-top: 5%
+}
+
+.col-3 {
+    margin-left: 11%;
+    margin-top: -2%;
+}
+
+
+.backkk {
+    margin: 32%;
+    margin-top: 3%;
+}
+
+.Photo {
+       width: 195px;
+    height: 174px;
+}
+
+
+.thank {
+        font-size: 27px;
+    text-align: center;
+}
+
+.portfolio_img {
+    margin-top: 10%;
+    margin-left: 3%;
+}
+.portfolio_title {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 2%;
+}
+.reserved {
+         margin-left: 43%;
+    margin-top: 25%;
+
+}
+
+
+.Text {
+    font-size: 13px;
+}
+
+
+.menu>li {
+    font-family: Caveat;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 30px;
+    font-size: 16px;
+}
+ul.menu{
+	margin: 0px;
+    padding: 0px;
+    display: flex;
+    list-style: none;
+    margin-right: 0px;
+}
+.right_hed {
+        margin-top: -25%;
+    margin-right: 2%;
+    text-align: left;
+    margin-left: 3%;
+    background-image: url(../image/back_android.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 118%;
+}
+
+
+.con {
+    background-image: url(../image/thanks.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+    max-width: 100%;
+    margin-top: 15%;
+}
+
+.left_hed {
+    margin-top: -22%;
+}
+}
+
+
+ @media (max-width: 360px){
+
+
+.header {
+   background-image: url(../image/coffee.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 17vh;
+}
+
+h1.POP {
+    margin: 0%;
+    margin-top: -5%;
+    font-size: 23px;
+    margin-left: 5%;
+}
+
+
+p.Name {
+           margin: 7%;
+    font-size: 14px;
+    margin-left: 8%;
+
+}
+
+
+.title {
+       font-size: 27px;
+    text-align: center;
+}
+  .Image{
+  	    height: 156px;
+    width: 273px;
+    max-width: 100%;
+  }
+
+  .android_pril {
+     text-align: center;
+    font-size: 19px;
+    margin-top: 37%;
+}
+.tit {
+    font-size: 18px;
+    line-height: 95%;
+    margin-top: 1%;
+}
+
+.server {
+ text-align: center;
+    font-size: 19px;
+    margin-top: 10%;
+}
+
+
+.civra {
+   text-align: center;
+    font-size: 19px;
+    margin-top: 80%;
+}
+
+
+.back {
+    margin: 30%;
+    margin-top: 5%;
+}
+
+.backk {
+        margin: 40%;
+    margin-top: 5%
+}
+
+.col-3 {
+    margin-left: 11%;
+    margin-top: -2%;
+}
+
+
+.backkk {
+    margin: 32%;
+    margin-top: 3%;
+}
+
+.Photo {
+   width: 234px;
+    height: 178px;
+}
+
+
+.thank {
+ font-size: 22px;
+    text-align: center;
+}
+
+.portfolio_img {
+    margin-top: 10%;
+    margin-left: 3%;
+}
+.portfolio_title {
+    text-align: center;
+    font-size: 19px;
+    margin-top: 2%;
+}
+.reserved {
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+
+.Text {
+    font-size: 11px;
+}
+
+
+.menu>li {
+    font-family: Caveat;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 27px;
+    font-size: 13px;
+}
+ul.menu{
+	margin: 0px;
+    padding: 0px;
+    display: flex;
+    list-style: none;
+    margin-right: 0px;
+}
+.right_hed {
+    margin-top: 7%;
+    margin-right: 2%;
+    text-align: center;
+    margin-left: 3%;
+    background-image: url(../image/back_android.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 73%;
+}
+
+
+.con {
+        background-image: url(../image/thanks.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+    max-width: 100%;
+    margin-top: 6%;
+
+}
+
+.left_hed {
+    margin-top: -28%;
+    margin-left: 17%;
+}
+.pomp {
+    margin-top: 7%;
+    margin-right: 0%;
+    text-align: center;
+    margin-left: 6%;
+}
+
+
+.cont {
+    display: inline;
+    width: auto;
+    margin: auto;
+    max-width: 100%;
+}
+
+
+.left_hedd {
+    margin-top: 56%;
+    text-align: center;
+    margin-left: 4%;
+}
+
+.right_hedd {
+    margin-top: -76%;
+    margin-left: 18%;
+}
+
+}
+
+
+ @media (max-width: 320px){
+
+.header {
+   background-image: url(../image/coffee.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 17vh;
+}
+
+h1.POP {
+ margin: 0%;
+    margin-top: -7%;
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+
+p.Name {
+ margin: 9%;
+    font-size: 12px;
+    margin-left: 8%;
+
+}
+
+
+.title {
+       font-size: 27px;
+    text-align: center;
+}
+  .Image{
+  	    height: 156px;
+    width: 273px;
+    max-width: 100%;
+  }
+
+  .android_pril {
+      text-align: center;
+    font-size: 17px;
+    margin-top: 24%;
+}
+.tit {
+    font-size: 18px;
+    line-height: 95%;
+    margin-top: 1%;
+}
+
+.server {
+    text-align: center;
+    font-size: 17px;
+    margin-top: 10%;
+}
+
+
+.civra {
+     text-align: center;
+    font-size: 17px;
+    margin-top: 99%;
+}
+
+
+.back {
+    margin: 30%;
+    margin-top: 5%;
+}
+
+.backk {
+        margin: 40%;
+    margin-top: 5%
+}
+
+.col-3 {
+margin-left: 6%;
+    margin-top: -3%;
+}
+
+.backkk {
+    margin: 32%;
+    margin-top: 3%;
+}
+
+.Photo {
+   width: 234px;
+    height: 178px;
+}
+
+
+.thank {
+ font-size: 23px;
+    text-align: center;
+}
+
+.portfolio_img {
+    margin-top: 10%;
+    margin-left: 3%;
+}
+.portfolio_title {
+    text-align: center;
+    font-size: 19px;
+    margin-top: 2%;
+}
+.reserved {
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+
+.Text {
+    font-size: 11px;
+}
+
+.row {
+    margin-top: 0%;
+}
+
+.menu>li {
+       font-family: Caveat;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 20px;
+    font-size: 11px;
+}
+ul.menu{
+	margin: 0px;
+    padding: 0px;
+    display: flex;
+    list-style: none;
+    margin-right: 0px;
+}
+.right_hed {
+    margin-top: 7%;
+    margin-right: 2%;
+    text-align: center;
+    margin-left: 3%;
+    background-image: url(../image/back_android.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 73%;
+}
+
+
+.con {
+        background-image: url(../image/thanks.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 17vh;
+    max-width: 100%;
+    margin-top: 6%;
+
+}
+
+.left_hed {
+    margin-top: -27%;
+    margin-left: 13%;
+}
+.pomp {
+margin-top: 6%;
+    margin-right: 0%;
+    text-align: center;
+    margin-left: 3%;
+}
+
+
+.cont {
+    display: inline;
+    width: auto;
+    margin: auto;
+    max-width: 100%;
+}
+
+
+.left_hedd {
+ margin-top: 65%;
+    text-align: center;
+    margin-left: 4%;
+}
+
+.right_hedd {
+    margin-top: -94%;
+    margin-left: 13%;
+}
+
+}
+
+
+
+
