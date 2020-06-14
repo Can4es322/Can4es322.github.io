@@ -85,6 +85,15 @@ font-size: 450%;
  
 }
 
+.reserved {
+    margin-left: 65%;
+    margin-top: 3%;
+}
+
+.Text {
+    font-size: 20px;
+}
+
 }
 
 
@@ -197,6 +206,16 @@ p.text {
              width: 87%;
     margin-left: 16%;
     max-width: 75%;
+}
+
+
+.reserved {
+    margin-left: 62%;
+    margin-top: 3%;
+}
+
+.Text {
+    font-size: 18px;
 }
 
 }
@@ -312,7 +331,14 @@ p.text {
     margin-left: 16%;
     max-width: 75%;
 }
+.reserved {
+    margin-left: 60%;
+    margin-top: 5%;
+}
 
+.Text {
+    font-size: 15px;
+}
 }
 
 
@@ -429,7 +455,14 @@ p.text {
     margin-left: 16%;
     max-width: 75%;
 }
+.reserved {
+    margin-left: 54%;
+    margin-top: 5%;
+}
 
+.Text {
+    font-size: 12px;
+}
 }
 
 @media (max-width: 376px)
@@ -657,7 +690,14 @@ p.text {
     margin-left: 16%;
     max-width: 75%;
 }
+.reserved {
+    margin-left: 50%;
+    margin-top: 5%;
+}
 
+.Text {
+    font-size: 12px;
+}
 }
 
 @media (max-width: 320px)
@@ -770,7 +810,14 @@ p.text {
     margin-left: 16%;
     max-width: 75%;
 }
+.reserved {
+    margin-left: 46%;
+    margin-top: 5%;
+}
 
+.Text {
+    font-size: 12px;
+}
 }
 
 
