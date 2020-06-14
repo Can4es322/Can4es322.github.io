@@ -80,6 +80,12 @@ margin-right: 4%;
     max-width: 100%;
 }	
 
+.Image{
+    height: 187px;
+    width: 323px;
+}
+
+
 .col-3{
 	
 	margin-left: 6%;
@@ -233,11 +239,26 @@ background-image: url("../image/thanks.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	height: 53vh;
+	height: 100%;
 	max-width: 100%;
 	margin-top: 15%;
 }
 .thank{
 font-size: 64px;
 text-align: center;
+}
+
+
+.reserved {
+        margin-left: 60%;
+    margin-top: 30%;
+}
+
+.Text {
+    font-size: 24px;
+}
+
+.Photo {
+    width: 470px;
+    height: 336px;
 }
