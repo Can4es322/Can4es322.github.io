@@ -7,7 +7,6 @@ body{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	height: 21vh;
 }
 
 
@@ -109,7 +108,7 @@ margin-right: 14%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	height:18vh;
+
 
 }
 
@@ -122,6 +121,14 @@ margin-right: 14%;
 }
 
 .phone{
-	margin-top: 4%;
+	    margin-top: -2%;
     margin-left: 71%;
-    font-size:24px;
+    font-size: 24px
+}
+
+.Left_inf {
+       margin-left: 6%;
+    margin-top: 2%;
+    font-size: 24px;
+}
+
